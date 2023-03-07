@@ -1,0 +1,17 @@
+/* odstraneni odrazek*/
+ul {list-style-type: none;margin:0;padding:0;
+    overflow: hidden;
+    background-color: rgb(124, 113, 113);
+    margin: 0;}
+/* seradi to vertikalne napr. zleva*/
+li {float: left;
+    /* nastavujeme mezery mezi prvkami*/
+    padding: 15px 15px 15px 15px;
+    }
+a:link {color: antiquewhite;}
+a:visited {color: #d1ccb7;}
+a:hover {color: black;}
+a:active {color:black}
+a   {text-decoration: none;
+    font-size: 25px;}
+
